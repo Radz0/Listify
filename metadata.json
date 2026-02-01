@@ -1,0 +1,7 @@
+{
+  "name": "Listify",
+  "description": "Professional e-commerce product image generator that transforms casual product photos into high-end studio listings with pure white backgrounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
